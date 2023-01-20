@@ -13,7 +13,7 @@ const MobileSideBar = () => {
     const closeModal = () => setIsOpen(false);
   return (
     <div>
-      <button className='rounded-full bg-teal-500 p-2 lg:hidden ' onClick={onClick} ><HiBars3  className="cursor-pointer h-6 w-6 text-white  " /> </button> 
+      <button className='rounded-full bg-teal-100 p-2 lg:hidden ' onClick={onClick} ><HiBars3  className="cursor-pointer h-6 w-6 text-teal-700  " /> </button> 
       <Transition appear show={isOpen} as={Fragment}>
         <Dialog as="div" className="relative z-10" onClose={closeModal}>
           <Transition.Child
