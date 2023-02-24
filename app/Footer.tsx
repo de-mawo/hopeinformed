@@ -73,7 +73,7 @@ const Footer = () => {
       </section>
       <section className="hidden md:block py-12 px-12 justify-center bg-neon-carrot-50 text-teal-700">
         <div className="flex justify-center my-5 space-x-3">
-          <Link href="#">
+          <Link href="https://www.facebook.com/profile.php?id=100089262364295">
             <BsFacebook className="h-6 w-6 mr-4  hover:scale-150 transition-all duration-200 ease-out" />
           </Link>
           <Link href="#">
