@@ -35,7 +35,7 @@ const Footer = () => {
       {/* Footer Desktop Screen */}
       <section className="hidden md:flex  justify-around items-center  bg-neon-carrot-50 py-12 px-12 ">
         <div className="items-center">
-          <Image src="/img/hi-black.png" alt="logo" width={100} height={70} />
+          <Image src="/img/hope.png" alt="logo" width={100} height={70} />
         </div>
 
         <div className=" flex flex-col space-y-2 text-teal-700">

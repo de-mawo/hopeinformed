@@ -7,7 +7,7 @@ const Header = () => {
     <nav className="bg-white border-gray-200 px-4 shadow-md lg:px-6 py-6 ">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
             <Link href="/" prefetch={false} className="flex items-center">
-                <img src="/img/hi-teal.png" className="mr-3 h-6 sm:h-9" alt="Logo" />
+                <img src="/img/hope.png" className="mr-3 h-6 sm:h-9" alt="Logo" />
                 <span className="self-center text-base md:text-xl font-light whitespace-nowrap lg:hover:text-teal-500">Hope Informed Foundation</span>
             </Link>
           

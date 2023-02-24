@@ -21,6 +21,12 @@ const OurTeam = () => {
       bio: " A Human Resources manager with vast years of experienceworking as  mentor to young people.",
       img: "/img/judith.png",
     },
+    {
+      name: "DURAN FRANCIS",
+      job_title: "COACH",
+      bio: " A retired  player who transitioned into coaching.",
+      img: "/img/coach.png",
+    },
   ];
 
   return (

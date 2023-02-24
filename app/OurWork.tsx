@@ -14,7 +14,7 @@ const OurWork = () => {
           <div className="flex flex-col space-y-6">
             <div className="flex flex-row items-center">
               <span className="bg-teal-100 p-2 rounded-full mr-2">
-                <HiOutlineUsers className="h-6 w-6 text-teal-500" />{" "}
+                <HiOutlineUsers className="h-6 w-6 text-orange-500" />{" "}
               </span>
               <p>WHO WE SERVE- Young boys between the ages of 7-19.</p>
             </div>
