@@ -24,7 +24,7 @@ const OurTeam = () => {
     {
       name: "DURAN FRANCIS",
       job_title: "COACH",
-      bio: " A retired  player who transitioned into coaching.",
+      bio: " A professional coach with a Confederation of African Football license.",
       img: "/img/coach.png",
     },
   ];

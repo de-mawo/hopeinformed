@@ -16,7 +16,7 @@ const OurWork = () => {
               <span className="bg-teal-100 p-2 rounded-full mr-2">
                 <HiOutlineUsers className="h-6 w-6 text-orange-500" />{" "}
               </span>
-              <p>WHO WE SERVE- Young boys between the ages of 7-19.</p>
+              <p>WHO WE SERVE- Young kids between the ages of 7-19.</p>
             </div>
             <div className="flex flex-row items-center">
               <span className="bg-neon-carrot-100 p-2 rounded-full mr-2">
@@ -41,7 +41,7 @@ const OurWork = () => {
               </span>
               <p>
               HOW THE COMMUNITY BENEFITS-  They can impact their own communities by giving back in either skills or contribute financially to the growth of their communities, 
-              They become role models to the other young boys in their communities and when playing football professionally become responsible tax paying citizens
+              They become role models to the other young kids in their communities and when playing football professionally become responsible tax paying citizens
               </p>
             </div>
           </div>

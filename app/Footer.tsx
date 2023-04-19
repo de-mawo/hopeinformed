@@ -17,16 +17,16 @@ const Footer = () => {
       <section className="fixed bottom-0 z-10 w-full  bg-white">
         <div className="flex  justify-between items-center border-t-2 border-neon-carrot-300 px-10 py-5  md:hidden">
           <div className="cursor-pointer">
-            <HiOutlineHome className="h-8 w-8  text-neon-carrot-600" />
+            <HiOutlineHome className="h-8 w-8  text-teal-600" />
             <p className="text-sm">Home</p>
           </div>
           <div className="cursor-pointer">
-            <HiOutlineMagnifyingGlass className="h-8 w-8 ml-1 text-neon-carrot-600" />
+            <HiOutlineMagnifyingGlass className="h-8 w-8 ml-1 text-teal-600" />
             <p className="text-sm">Search</p>
           </div>
 
           <div className="cursor-pointer">
-            <HiOutlinePhoneArrowUpRight className="h-8 w-8 ml-3 text-neon-carrot-600 " />
+            <HiOutlinePhoneArrowUpRight className="h-8 w-8 ml-3 text-teal-600 " />
             <p className="text-sm">Contact</p>
           </div>
         </div>

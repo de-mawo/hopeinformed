@@ -58,10 +58,10 @@ const MobileSideBar = () => {
                     className="text-lg font-medium leading-6 text-gray-900 mb-8 flex justify-center"
                   >
                     <Image
-                      src="/img/hi-teal.png"
+                      src="/img/hope.png"
                       width={70}
                       height={70}
-                      className="mr-3 "
+                      className="mr-3 shrink-0"
                       alt="Logo"
                     />
                   </Dialog.Title>

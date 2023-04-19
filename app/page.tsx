@@ -13,7 +13,7 @@ function Home() {
         <Header/>
         <Hero/>
         <OurWork/>
-        <SocialProof/>
+        {/* <SocialProof/> */}
         <OurMission/>
         <OurTeam/>
         <Contact/>
